@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/41cd88f6-ff29-4f60-a603-b79417ffcca9)# Pizzasales-SQL-project
+# Pizzasales-SQL-project
 This project analyzes pizza sales data to provide insights into revenue generation, sales trends, and product performance. The data is processed to uncover patterns and inform business decisions.
 
 ### IN[1] -- retrive the total orders placed
